@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Reasad Azim</h1>
 <h3 align="center">I am a passionate full stack web developer from Bangladesh.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a.m.reasadazimbappy&label=Profile%20views&color=0e75b6&style=flat" alt="a.m.reasadazimbappy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reasadazim&label=Profile%20views&color=0e75b6&style=flat" alt="reasadazim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a.m.reasadazimbappy&theme=" alt="a.m.reasadazimbappy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reasadazim&theme=" alt="reasadazim" /></a> </p>
 
 
 - 📫 How to reach me **riasadazim@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/a-m-reasad-azim-bappy-b42057a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/a.m.reasadazimbappy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/reasadazim" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:riasadazim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,18 +34,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=a.m.reasadazimbappy&show_icons=true&locale=en&theme=" alt="a.m.reasadazimbappy" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reasadazim&show_icons=true&locale=en&theme=" alt="reasadazim" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=a.m.reasadazimbappy&theme=" alt="a.m.reasadazimbappy" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reasadazim&theme=" alt="reasadazim" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/a.m.reasadazimbappy">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a.m.reasadazimbappy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a.m.reasadazimbappy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a.m.reasadazimbappy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a.m.reasadazimbappy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a.m.reasadazimbappy&theme=2077" height="180em" />
+<a href="https://github.com/reasadazim">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reasadazim&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reasadazim&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reasadazim&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reasadazim&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reasadazim&theme=2077" height="180em" />
 </div>
 Support
 Are you using the tool and happy with it to create your GitHub 
