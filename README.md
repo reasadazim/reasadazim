@@ -31,9 +31,11 @@
 </center>
 
 <h3 align="center">Stars</h3>
+<center>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reasadazim&show_icons=true&locale=en&theme=" alt="reasadazim" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reasadazim&theme=" alt="reasadazim" /></p>
+</center>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
