@@ -39,7 +39,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reasadazim&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reasadazim&theme=2077" height="180em" />
 </div>
-
+<br><br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reasadazim&label=Profile%20views&color=0e75b6&style=flat" alt="reasadazim" /> </p>
 
 <div align="center"> <a href="https://www.linkedin.com/in/a-m-reasad-azim-bappy-b42057a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
