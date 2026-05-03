@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate full-stack web developer from Bangladesh.</h3>
 <p align="center"><img align="center" src="https://reasadazim.com/wp-content/uploads/2023/12/programmer.gif" width="350"/></p>
 <h3 align="center">Languages and Tools:</h3>
-<center>
+<center> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
