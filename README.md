@@ -22,7 +22,6 @@
 </p>
 </center>
 
-<h3 align="center">Stars</h3>
 <div align="center">
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reasadazim&theme=" alt="reasadazim" /></p>
 </div>
